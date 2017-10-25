@@ -1,6 +1,6 @@
 # Clean Answers over Dirty Databases: A Probabilistic Approach
 ## Course Code: CS702	<br/>
-## Course Project: Distributed Database Management System	<br/>
+## Course Project: Distributed Database Management System 2016 <br/>
 
 ### Overview		<br/>
 Authors propose a complementary approach that permits declarative query answering over duplicated data, where each duplicate is associated with a probability of being in the clean database. This repository contains the simulation of author work[1] using python[2] script in which they rewrite queries over a database containing duplicates to return each answer with the probability that the answer is in the clean database.
